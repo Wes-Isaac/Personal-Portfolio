@@ -22,19 +22,16 @@ Clone the repo to your local machine.
 
 git clone https://github.com/Wes-Isaac/Portfolio.git
 
-cd Portfolio
+cd Personal-Portfolio
 
 
-## Authors
+## Author
 
 👤 **Yishak**
 
 - GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
 - LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
 
-👤 **Jeff**
-
-- GitHub: [Jeff](https://github.com/JEFFKAY16)
 
 ## 🤝 Contributing
 
